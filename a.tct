@@ -1,0 +1,26 @@
+# Netscape HTTP Cookie File
+
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	GPS	1
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	YSC	pUqvKIq1d5E
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	__Secure-ROLLOUT_TOKEN	CIO5iZ2a3eWOwQEQh82_64yjjAMYjurZ7oyjjAM%3D
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	VISITOR_INFO1_LIVE	Xr7ASCDziFg
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgKQ%3D%3D
+.youtube.com	TRUE	/	TRUE	0	PREF	f6=40000000&tz=Asia.Kolkata&f7=100
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDTS	sidts-CjEB7pHptfTc7cxyLzYg4-FGdlCfvGnFQ85nS9Hl-jeYTUNogBrtUHGmZsaXju0KDle7EAA
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDTS	sidts-CjEB7pHptfTc7cxyLzYg4-FGdlCfvGnFQ85nS9Hl-jeYTUNogBrtUHGmZsaXju0KDle7EAA
+#HttpOnly_.youtube.com	TRUE	/	FALSE	0	HSID	ADcy2A3hXM2ca7-6F
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	SSID	AEpDgLVLHK6Xocway
+.youtube.com	TRUE	/	FALSE	0	APISID	51GOlHE0vB29cghr/AI5vOzLtdbW2z3pAX
+.youtube.com	TRUE	/	TRUE	0	SAPISID	132oKdHz-hpFTlxi/A8na1LMYVg-XO0Qv2
+.youtube.com	TRUE	/	TRUE	0	__Secure-1PAPISID	132oKdHz-hpFTlxi/A8na1LMYVg-XO0Qv2
+.youtube.com	TRUE	/	TRUE	0	__Secure-3PAPISID	132oKdHz-hpFTlxi/A8na1LMYVg-XO0Qv2
+.youtube.com	TRUE	/	FALSE	0	SID	g.a000vAjSMu89H6FOX0A9uOZmmw26ekRmL61avEkkFxHL8YRNSIN8oN_E-xJ68xDOHCJnlcM8PgACgYKARISARQSFQHGX2MiN9ybaNlrmttjb24iUfQYPhoVAUF8yKpkbGVo8Yn-BWWHRRW80qlT0076
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	__Secure-1PSID	g.a000vAjSMu89H6FOX0A9uOZmmw26ekRmL61avEkkFxHL8YRNSIN8EcLj-2QwDHswv94BkeAPngACgYKAZkSARQSFQHGX2MiImaqIUPkx9RvYSOzGylvfBoVAUF8yKp7ZyNLxFunPXBrCccfaVsV0076
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	__Secure-3PSID	g.a000vAjSMu89H6FOX0A9uOZmmw26ekRmL61avEkkFxHL8YRNSIN8IKmQchi0yKFEJxFKtFhFVQACgYKAYASARQSFQHGX2MiHjXYuyNhXyfyCBu4Lw3dfRoVAUF8yKrSSHF50npNWkW2Zl1a02GG0076
+.youtube.com	TRUE	/	FALSE	0	SIDCC	AKEyXzXESzq5EOi_L4hG9pcVbJKX3BDFUDwVumnTxootN-DaDuxy_e-glxzK6IDDP-H3BmcevA
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	__Secure-1PSIDCC	AKEyXzWt9Fp4E-e7ynS7c7HMsphHCtlEYk7_y__dwam4aNVrB8CFURphpqjrIoosXnXyz6wx
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	__Secure-3PSIDCC	AKEyXzXkokKBzkiKEb1DBsNLA9DvZ4vUjURtxm9JuyNCZx-AEB1iMVji3im8-HcNy_6rbZ0xvA
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	LOGIN_INFO	AFmmF2swRQIhAO_UigNeMjgtT_ra4TNe9n0fJr_56VMkNywUvUlg7PYoAiBbXMeL0KYflzYQNN8IDuaa3aBvtgXHsC2s9ESosHTtKg:QUQ3MjNmeTFiQ1dTUXh5dDNfSHB4RGZsdG8wb081LTE5MDVESmRlMkNtU0RUOXFPN1VWMkh3anFjRkZ3LW5hYXEtQjVRSXhFcm1MQ2lBVUVnSFRRaHhjZ28tZklXTDVKc3RtUWtxaXo5RnlLQWlpTnRPS2QxZEJ6TVRMa2l3U3p0cEc3cFFpSHZvYnRKNlBsaGRqNVJ0dHc2VElia0dsYUtB
+.youtube.com	TRUE	/	FALSE	0	ST-1wjnoud	csn=WmuYuNHAPRkZdcuK&itct=CIwBEPxaIhMIj5zq7oyjjAMVa-5MAh1PnjslMgpnLWhpZ2gtcmVjWg9GRXdoYXRfdG9fd2F0Y2iaAQYQjh4YngE%3D
+#HttpOnly_.google.com	TRUE	/	TRUE	0	NID	522=TVXSZo5nRTa0Fl-T-DdmZkc3j4fdMoOnRtXypy4YDHlgTuJ4Q0L-FDsO6BPh4Ke1S4tvDWIdEaDDac3Zy5_ZnCg8UUcSnJftXXZ87uEfmpoz5pjZvHD9MkrPZgwl12kw5f4irzVbCyNz7FGIhIYmjoe1BfE2jWIPjMYYVHCC35JMA9ECqtQa2BrCrJQAFgx2a0OfjZbroQ
+#HttpOnly_accounts.google.com	FALSE	/	TRUE	0	__Host-GAPS	1:wdf3SWc7AaISfMHNuw-YGhxxI3cJ8g:RoDL5J1m21h4h-44
